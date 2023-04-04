@@ -2,9 +2,9 @@
 
 ## Overview
 
-This is a user friendly offline unit conversion tool for the browser. Added mailny three unites Length , Area and Temperature, so every effort has been made to keep this as simple, fast, and portable as possible.
+This is a user friendly offline unit conversion tool for the browser. Added mailny six unites Length , Area and Temperature, time, weight and volume so every effort has been made to keep this as simple, fast, and portable as possible.
 
-The site is live at [here]
+The site is live at [here] : https://github.com/himanshuranjan977/CodeClause_project01_UNIT_CONVERTER
 
 ## Usage
 
@@ -19,6 +19,8 @@ A full list of the currently supported units is below.
 * Meter m
 * Kilo-Meter km
 * Centi-Meter cm
+* Feet
+* Inch
 
 ### Area
 
@@ -34,19 +36,29 @@ A full list of the currently supported units is below.
 
 ### volume
 
-* Square Feet ft²
-* Square Inches in²
-* Square Meter m²
+* Liter(l)
+* cubic Centimeters (cm³)
+* Cubic Meter (m³)
+* Milliliter (ml)
 
 ### time
 
-* Square Feet ft²
-* Square Inches in²
-* Square Meter m²
+* Hours (hr)
+* Minutes (min)
+* Seconds (sec)
+
+
+### Weight
+
+* Kilogram (kg)
+* Gram (g)
+* Milligram (mg)
+*Pounds (lb)
 
 
 
 Name : Himanshu Ranjan
+email :himanshuranjan977.hitece2020@gmail.com
 
 
 
